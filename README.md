@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abir Chebbi 👋</h1>
 <h3 align="center">Software Engineer | AI & Computer Vision Specialist | Maritime Innovation</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" width="400"/>
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" width="200"/>
 </p>
 
 ---
@@ -61,11 +61,22 @@ I'm a passionate software engineer based in Tunisia, specializing in AI-powered 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abirchebbi45&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abirchebbi45&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchebbi45&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Profile Summary Card -->
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abirchebbi45&theme=dracula)
+
+<!-- Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirchebbi45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abirchebbi45&theme=dracula&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchebbi45&theme=dracula&hide_border=false&layout=compact&langs_count=8)
+
+<!-- Contribution Snake Animation (Optional) -->
+![Contribution Snake](https://github.com/abirchebbi45/abirchebbi45/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
