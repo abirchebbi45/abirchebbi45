@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer based in Tunisia, specializing in AI-powered solutions for real-world problems. My current focus is on **maritime AI and computer vision** as part of the SailorTech [...]
+I'm a passionate software engineer based in Tunisia, specializing in AI-powered solutions for real-world problems. My current focus is on **maritime AI and computer vision** as part of the SailorTech initiative. My work blends autonomous systems, robotics, and cutting-edge vision technologies to enhance safety and navigation for autonomous watercraft.
 
 - 🔭 **Currently Working On:**  
   [Sailor Vision AI](https://github.com/abirchebbi45/sailor-vision-ai)  
@@ -64,8 +64,7 @@ I'm a passionate software engineer based in Tunisia, specializing in AI-powered 
 ## 🌍 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-chebbi/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abir_0409#2762)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://yourportfolio.com) <!-- add your portfolio link if available -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abir_0409#2762)<!-- add your portfolio link if available -->
 
 ---
 
@@ -82,12 +81,6 @@ I'm a passionate software engineer based in Tunisia, specializing in AI-powered 
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchebbi45&theme=dracula&hide_border=false&layout=compact&langs_count=8)
-
-<!-- Contribution Snake Animation (Optional) -->
-![Contribution Snake](https://github.com/abirchebbi45/abirchebbi45/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abirchebbi45&theme=dracula)
 
 ---
 
