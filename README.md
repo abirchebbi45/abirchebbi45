@@ -80,8 +80,4 @@ I'm a passionate software engineer based in Tunisia, specializing in AI-powered 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abirchebbi45&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 <!-- Optimized for clarity and professionalism by Copilot. Proudly created with GPRM (https://gprm.itsvg.in) -->
