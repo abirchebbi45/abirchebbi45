@@ -1,87 +1,53 @@
-<h1 align="center">Hi, I'm Abir Chebbi 👋</h1>
-<h3 align="center">Software Engineer | AI & Computer Vision Specialist | Maritime Innovation</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Abir Chebbi — AI Tech Lead. Speech and language AI from prototype to production." src="assets/header-light.svg" width="100%">
+</picture>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="coding" width="300"/>
+  <a href="https://abirchebbi-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abir-chebbi/">LinkedIn</a>
 </p>
 
-<!-- Visitor Badge & Achievements -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abirchebbi45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=abirchebbi45&theme=dracula&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
-</p>
+### What I do now
 
----
+AI Tech Lead at **DI Xpertia**, where I work across several applied-AI products.
 
-## 🚀 About Me
+**Tech lead — meeting transcription & analysis SaaS.** I lead the product end to end: it turns meeting recordings into searchable transcripts and structured analysis, from the audio pipeline to the database, the UI and the deployment.
 
-I'm a passionate software engineer based in Tunisia, specializing in AI-powered solutions for real-world problems. My current focus is on **maritime AI and computer vision** as part of the SailorTech initiative. My work blends autonomous systems, robotics, and cutting-edge vision technologies to enhance safety and navigation for autonomous watercraft.
+**Contributor — other AI projects.** I also take part in the company's work on **retrieval-augmented generation (RAG)**, **LLM applications** and **document OCR**.
 
-- 🔭 **Currently Working On:**  
-  [Sailor Vision AI](https://github.com/abirchebbi45/sailor-vision-ai)  
-  *An advanced maritime surveillance system leveraging AI-powered computer vision, real-time object detection, and robust desktop management.*
+What that looks like in practice:
 
-- 🌱 **Currently Learning:**  
-  - TensorRT optimization for deep learning inference
-  - Advanced distributed systems & cloud-based analytics
-  - Next-gen ROS 2 features for robotics and edge computing
-  - ReactJS (web technologies)
+- **Speech & LLM pipelines** — speech recognition (Whisper family), speaker diarization and language models **hosted on our own infrastructure**, with evaluation before every model change.
+- **Data isolation by design** — PostgreSQL Row-Level Security enforced in the database, covered by an automated **pgTAP** test suite that runs in CI.
+- **Privacy-first AI** — data minimisation and short-lived processing of sensitive data, with GDPR in mind from the schema up.
+- **Shipping & operating** — FastAPI services, a React/TypeScript front end, Docker images deployed with Dokploy, staged releases and incident handling.
 
-- 📫 **Contact:**  
-  - Email: abir240@gmail.com  
-  - LinkedIn: [abir-chebbi](https://www.linkedin.com/in/abir-chebbi/)  
-  - Discord: abir_0409#2762
+### How I build
 
-- 📄 **CV & Experience:**  
-  [Download my resume](https://drive.google.com/...)
+- **Evaluate before you ship** — no model, prompt or pipeline change goes out without a measured comparison.
+- **Enforce isolation in the database** — access rules live where the data lives, and are tested like code.
+- **Privacy by default** — collect less, keep it shorter, delete it provably.
+- **Boring deployments** — small releases, staging first, a rollback ready before every change.
 
----
+### Toolbox
 
-## 🛠️ Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack. AI/ML: Python, PyTorch, Hugging Face, Whisper, diarization, local LLMs, RAG, OCR. Backend and data: FastAPI, PostgreSQL, SQLAlchemy, Qdrant, Row-Level Security, pgTAP. Frontend: React, TypeScript, Tailwind, Vite. Delivery: Docker, Dokploy, GitHub Actions, Linux. Earlier: OpenCV, YOLOv8, Jetson Orin, ROS 2." src="assets/stack-light.svg" width="100%">
+</picture>
 
-**Current & Core Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FFEA00?style=for-the-badge&logo=ultralytics&logoColor=black)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-5C5C5C?style=for-the-badge&logo=gazebo&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![v4l2loopback](https://img.shields.io/badge/v4l2loopback-000000?style=for-the-badge)
-![NVIDIA Orin](https://img.shields.io/badge/NVIDIA%20Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Torch](https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### My year, as a waveform
 
-**Previous & Additional Technologies:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/waveform-dark.svg">
+  <img alt="Last year's GitHub contributions drawn as an audio waveform, one bar per week." src="assets/waveform-light.svg" width="100%">
+</picture>
 
----
+<sub>Most of my day-to-day work lives in private repositories: the activity is real, the code is not public.</sub>
 
-## 🌍 Socials
+### Now
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-chebbi/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abir_0409#2762)<!-- add your portfolio link if available -->
-
----
-
-## 📊 GitHub Stats
-
-<!-- Profile Summary Card -->
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abirchebbi45&theme=dracula)
-
-<!-- Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirchebbi45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false)
-
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abirchebbi45&theme=dracula&hide_border=false)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchebbi45&theme=dracula&hide_border=false&layout=compact&langs_count=8)
-
----
-
-<!-- Optimized for clarity and professionalism by Copilot. Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- NOW:START -->
+**Building in public.** Open-source tools around LLM evaluation, speech AI and PostgreSQL security — first release coming soon.
+<!-- NOW:END -->
